@@ -3,6 +3,7 @@
     <h1> Malayah Form : New user Register for DevOps Learning</h1>
     <p>Mashari Please fill in this form to create an account.</p>
     <p> Tammy and CJ </p>
+    <p> New user Calvin D. Jones attends Morehouse College</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
