@@ -5,6 +5,7 @@
     <p> Tammy and CJ </p>
     <p> New user Calvin D. Jones attends Morehouse College</p>
     <p> Meyaka Wilson </p>
+    <p> Gloria Jones </p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
