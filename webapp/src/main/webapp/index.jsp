@@ -6,6 +6,7 @@
     <p> New user Calvin D. Jones attends Morehouse College</p>
     <p> Meyaka Wilson </p>
     <p> Gloria T Jones </p>
+    <p> Kelly JOnes </p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
